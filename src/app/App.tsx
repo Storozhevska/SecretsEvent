@@ -205,12 +205,7 @@ export default function App() {
 
               {/* Register button */}
               <div className="mt-4">
-                <a
-                  href="https://secure.wayforpay.com/button/bb70a1f69499a"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-block group"
-                >
+                
                   <div
                     className="relative overflow-hidden px-8 py-4 border-2 transition-all duration-300 hover:bg-primary hover:border-primary"
                     style={{
@@ -229,9 +224,9 @@ export default function App() {
                         textTransform: 'uppercase'
                       }}
                     >
-                      Забронювати місце
+                      Все розкуплено
                     </span>
-                  </div>
+                  
                 </a>
                 <p
                   className="mt-3"
