@@ -226,8 +226,8 @@ export default function App() {
                     >
                       Все розкуплено
                     </span>
-                  
-                </a>
+                  </div>
+               
                 <p
                   className="mt-3"
                   style={{
